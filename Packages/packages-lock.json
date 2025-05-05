@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.greenbamboogames.playablegraphmonitor": {
+      "version": "https://github.com/hankangwen/UnityPlayableGraphMonitorTool.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "252eefbcd9f62f37ea4916a1eca41753be271217"
+    },
     "com.unity.collab-proxy": {
       "version": "2.7.1",
       "depth": 0,
